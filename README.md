@@ -8,17 +8,17 @@ This is a repo for a simple sign up created for the ACA Coding Academy.
 
 - [ Sign Up Form
 ](#sign-up-form)
-- [ Table of content] (#table-of-content)
-- [Details] (#details)
-- [Project Task] (#project-task)
-- [Links] (#links)
-- [My Process] (#my-process)
-- [Built With] (#built-with)
-- [What I Learnt] (#what-i-learnt)
-- [Deployment] (#deployment)
-- [Useful Resources] (#useful-resources)
-- [Author] (#author)
-- [Acknowledgement] (#acknowledgement)
+- [ Table of content](#table-of-content)
+- [Details](#details)
+- [Project Task](#project-task)
+- [Links](#links)
+- [My Process](#my-process)
+- [Built With](#built-with)
+- [What I Learnt](#what-i-learnt)
+- [Deployment](#deployment)
+- [Useful Resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgement](#acknowledgement)
 
 ### Details
 This porfolio project has a total of 4 pages. The home page is an overview of my projects in carousal mode, as well as my short info. The second page is the about page in which can be seen, a short background about myself, some testimonials as well. The third page is the portfolio. This page includes a list of some projects I have done, in row format. And the last page is the contact me page. All the pages have a particular styling attached and have the same footer which includes my contact details and social media links. 
